@@ -3,7 +3,8 @@ These notebooks are made for beginners who want get started with learning Lancha
 ---------------
 
 ### Prerequisites
-You will need to install Langchain for a start
+You will need to install Langchain for a start.
+
 Notebooks specify rest of the requiremnets, including TogetherApi key.
 
 
