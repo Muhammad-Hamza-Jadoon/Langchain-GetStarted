@@ -1,10 +1,5 @@
 # Langchain Basics
-================
-
-## Description
 These notebooks are made for beginners who want get started with learning Lanchain.
-
-## Getting Started
 ---------------
 
 ### Prerequisites
