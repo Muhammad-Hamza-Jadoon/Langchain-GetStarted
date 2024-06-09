@@ -3,24 +3,31 @@ These notebooks are made for beginners who want get started with learning Lancha
 ---------------
 
 ### Prerequisites
+-----------
+
 You will need to install Langchain for a start.
 
 Notebooks specify rest of the requiremnets, including TogetherApi key.
 
-
-### Usage
-Explain how to use your project.
-
-## Features
+### Notebook 1
 -----------
 
-* List your project's features and functionality.
+* Create simple chain to chat with model using prompt
+* Maintain history of your conversation as well this time
+* Explore other tasks that can be done using learnt chains and prompts
+
+
+### Notebook 2
+-----------
+
+* Create simple chain to chat with model using prompt
+* Maintain history of your conversation as well this time
+* Explore other tasks that can be done using learnt chains and prompts
 
 
 ## Contact
 -------
 
-* Your Name
-* Your Email
-* Your Website or Social Media# Project Name
+* Muhammad Hamza Jadoon
+* muhammadhamzajadoon@gmail.com
 ================
