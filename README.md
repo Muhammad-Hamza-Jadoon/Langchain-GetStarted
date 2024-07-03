@@ -33,8 +33,8 @@ Notebooks specify rest of the requiremnets, including how to setup TogetherApi k
 * I downloaded multiple ML lecture pdf files from CS-32 Stanford website and decided to implement a RAG pipeline for multiple pdf files.
 * Figured out how i could also use ``TogetherEmbeddings`` instead of ``OllamaEmbeddings``. Since finding embeddings takes alot of time, I had initially done this on Kaggle notebook with their provided gpu. For some reason OllamaEmbeddings was not working there so used TogetherEmbeddings instead and it worked well.
 * This time around, I used chroma vector store and saved it in persist_directory to load later on.
-* Understood the concept of smiliarity search and other similar search that can be used with the vector store created to find what relevant document pages are fetched from store when provided with a query.
-* It the further dawned upon me that there are alot of different types of retrievers that are used to fetch relevant docs from vector database, like compression retriever, self-query-search retriever etc.
+* Understood the concept of ``smiliarity search`` and similar techniques that can be used with the vector store created to find what relevant document pages are fetched from store when provided with a query.
+* It then further dawned upon me that there are alot of different types of retrievers that are used to fetch relevant docs from vector database, like ``compression retriever``, ``self-query-search retriever`` etc.
 * Finally used the following two chains: ``ConversationalRetrievalChain`` and ``RetrievalQA`` to chat with pdfs using llms. Discovered how ``ConversationBufferMemory`` can also be used within these chains to keep track of conversation history.
 
 
