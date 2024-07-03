@@ -1,5 +1,5 @@
-# Langchain Basics
-These notebooks are made for beginners who want get started with learning Lanchain.
+# Langchain Roadmap
+These notebooks will walk you through my entire process of learning langchain. It contains all the steps I had to go through to master my grip on implementing RAG pipelines from sratch.  
 ---------------
 
 ### Prerequisites
