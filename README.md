@@ -7,7 +7,7 @@ I would recommend jumping straight into the notebooks and keep an eye for this R
 
 You will need to install Langchain for a start.
 
-Notebooks specify rest of the requiremnets, including TogetherApi key.
+Notebooks specify rest of the requiremnets, including how to setup TogetherApi key.
 
 ### Notebook 1
 -----------
