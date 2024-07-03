@@ -20,7 +20,7 @@ Notebooks specify rest of the requiremnets, including TogetherApi key.
 ### Notebook 2
 -----------
 
-* change this
+* change this boy change this
 * Maintain history of your conversation as well this time
 * Explore other tasks that can be done using learnt chains and prompts
 
